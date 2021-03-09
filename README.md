@@ -1,1 +1,1 @@
-TinDog Starting Files
+To get to the page: https://delinanguyen.github.io/tindog/
